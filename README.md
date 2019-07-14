@@ -18,6 +18,9 @@ One player per wallet. A wallet contains the data records for that player.
 * Registration Start
 * Registration End
 * Launch Time
+* Total prize pool
+* Distribution
+* Placement Result List
 * Player set
 
 ### Brackets
